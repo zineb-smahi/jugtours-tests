@@ -1,10 +1,10 @@
 Getting Started
 1. Clone the following repository:
-`git clone 
+`git clone https://github.com/zineb-smahi/jugtours-tests jugtours_tests
 `
 2. Ensure the tested app is running locally.
 3. Install dependencies:
-`cd jugtours_sln`
+`cd jugtours_tests`
 `mvn clean install`
 4. Run tests
 `   mvn test`
